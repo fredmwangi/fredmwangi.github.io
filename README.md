@@ -1,2 +1,1 @@
-# fredmwangi.github.io
-My Blog
+Blog of Frederick Mwangi
